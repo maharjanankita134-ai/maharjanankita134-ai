@@ -19,7 +19,7 @@
 ### ⚡ About Me
 
 - 🎓 Currently studying: **Information Technology**
-- 🌱 Currently learning: **Java & Python**
+- 🌱 Currently learning: **C programming, JavaScript & Python**
 - 🔭 Currently building: **Nothing yet — learning & exploring**
 - 💡 Interested in: **Programming, Technology & Creative Projects**
 - 🎯 Goal: **Build strong programming fundamentals and create meaningful projects**
